@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "title": "Filenin Sultanları Şampiyonluk Yolunda",
+    "description": "A Milli Kadın Voleybol Takımı'mız 2023 CEV Avrupa Şampiyonası son 16 turunda Belçika ile karşı karşıya geldi. Filenin Sultanları rakibini 3-1 mağlup ederek yenilmezlik serisini sürdürdü ve adını çeyrek finale yazdırdı. ",
+    "author": "B. Özdemir",
+    "imageUrl": "https://cdn.ntvspor.net/41658e0f0d2847ff87239bab7e391800.jpg?mode=crop&w=940&h=626"
+  },
+  {
+    "id": 1,
+    "title": "Fenerbahçe Yoluna Kayıpsız Devam Ediyor",
+    "description": "Sarı Lacivertli ekip bu sezon Avrupa Konferans Ligi'nde oynadığı 5 maçta da galip gelerek başarılı bir tablo çizdi. Tüm maçlarında farklı galip gelen İstanbul temsilcisi sezona iddialı bir başlangıç yaptı.",
+    "author": "B. Özdemir",
+    "imageUrl": "https://media.fenerbahce.org/getmedia/48c8b013-a991-411d-b62c-eac7292b4a75/fbtwentekpk2.jpg?width=1200&height=675&ext=.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Beşiktaş Romanya'dan Avantajla Dönüyor ",
+    "description": "Avrupa Konferans Ligi Play-Off turu ilk maçında deplasmanda Ukrayna temsilcisi Dinamo Kiev'le karşılaşan Siyah Beyazlı ekip son dakikalarda bulduğu golle 3-2 galip gelerek tur avantajını yakaladı.",
+    "author": "B. Özdemir",
+    "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/24/thumbs_b_c_6a90d591538da63a3377b055a3a2f678.jpg?v=220627"
+  },
+  {
+    "id": 3,
+    "title": "Adana Demirspor Turu Rövanşa Bıraktı",
+    "description": "Avrupa Konferans Ligi Play-Off turu ilk maçında deplasmanda Belçika temsilcisi Genk ile karşılaşan Adana Demirspor maça iyi bir başlangıç yaptı ve 47. dakikada 1-0 öne geçti. İlerleyen dakikalarda kalesinde 2 gol gören Akdeniz ekibi tur avantajını rakibine kaptırdı. ",
+    "author": "B. Özdemir",
+    "imageUrl": "https://cdn1.ntv.com.tr/gorsel/RA0MKGc-AEO215M4VX9H4w.jpg?width=952&height=540&mode=both&scale=both"
+  },
+  {
+    "id": 4,
+    "title": "Galatasaray Şampiyonlar Ligi İçin Sahaya Çıkıyor",
+    "description": "Avrupa Şampiyonlar Ligi Play-Off turu ilk maçında Norveç temsilcisi Molde ile deplasmanda karşılaşan Sarı Kırmızılı ekip rakibini 3-2 mağlup ederek tur için avantaj yakaladı. Maçın rövanşı 29 Ağustos'ta oynanacak.",
+    "author": "B. Özdemir",
+    "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/23/thumbs_b_c_d896744f8df5a8c704b7e1d149b8a1e7.jpg?v=000149"
+  }
+]
